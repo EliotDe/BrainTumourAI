@@ -65,6 +65,9 @@ pip install -r requirements.txt
 
 # Launch Jupyter Notebook
 jupyter notebook
+```
+## Disclaimer
+Some of the hyperparameters may not be at the optimal setting in my notebook due to me experimenting with different values. I have documented the best values in my report and the best results for both of the models.
 
 
 
