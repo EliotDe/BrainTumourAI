@@ -1,0 +1,8 @@
+tensorflow==2.10.0
+keras==2.10.0
+numpy
+matplotlib
+pandas
+seaborn
+scikit-learn
+imbalanced-learn
